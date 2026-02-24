@@ -7,7 +7,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import io
 
 
-import io
+
 
 def extract_text_from_pdf(file):
     try:
